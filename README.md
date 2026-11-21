@@ -9,8 +9,8 @@ An unofficial, community-built connector that lets ODC apps use
 
 | Folder | Content | Status |
 |---|---|---|
-| `external-logic/` | C# external library that creates LiveKit access tokens | In progress |
-| `odc/` | ODC library with server actions and the `LiveKitRoom` Block | Planned |
+| `external-logic/` | C# external library that creates LiveKit access tokens | v1.0.0 released |
+| `odc/` | ODC library: client actions, `LiveKitRuntime` block, token server action | In progress |
 | `demo/` | Demo app (voice agent screen) | Planned |
 | `docs/` | Setup guide and troubleshooting | Planned |
 

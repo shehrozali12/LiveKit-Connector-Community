@@ -1,0 +1,13 @@
+# .NET build output
+bin/
+obj/
+dist/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# Never commit secrets
+*.env
+appsettings.*.json
